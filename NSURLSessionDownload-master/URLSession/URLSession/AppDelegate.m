@@ -36,7 +36,6 @@
 - (void)applicationWillEnterForeground:(UIApplication *)application
 {
     //do me a favor
-    //do two
 }
 
 @end
